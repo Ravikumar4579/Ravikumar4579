@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello ! I'm Gandrothu Ravi Kumar<br> Computer science student<br>🔭 I’m currently working on Event mangement website using MERN Stack
+<h1 align= "center">Hello ! I'm Gandrothu Ravi Kumar<br> Computer science student<br>🔭 I’m currently working on Event mangement website using MERN Stack
 
 
 ## 🌐 Socials:
